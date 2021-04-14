@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205.121" height="41.5" viewBox="0 0 205.121 41.5">
+  <g id="Group_8260" data-name="Group 8260" transform="translate(-116.879 -41.5)">
+    <text id="Threestops" transform="translate(166 73)" fill="#feffff" font-size="29" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Threestops</tspan></text>
+    <g id="Group_8257" data-name="Group 8257" transform="translate(116.879 41.5)">
+      <path id="Path_1" data-name="Path 1" d="M-335.792,250.31V228.783l-18.643-10.763,2.656-1.533a5.018,5.018,0,0,1,5.019,0l13.624,7.865a5.019,5.019,0,0,1,2.509,4.347V244.43a5.018,5.018,0,0,1-2.509,4.346l-2.656,1.534Z" transform="translate(367.912 -215.814)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_2" data-name="Path 2" d="M-363.513,238.329l-.011,21.464-7.573,4.372a5.02,5.02,0,0,1-5.019,0l-13.624-7.866a5.018,5.018,0,0,1-2.509-4.346V236.222a5.019,5.019,0,0,1,2.509-4.347l7.573-4.372,5.165,2.982-.048.028,13.537,7.816Zm-18.7-4.834-4.869,2.811v15.562l13.477,7.781,4.929-2.846V241.311l-13.537-7.816Z" transform="translate(392.25 -223.337)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_3" data-name="Path 3" d="M-368.132,253.037l11.581,6.686v5.964l-3.755-2.168v7.3l-5.165-2.92v-7.361L-368.132,259v-5.964Z" transform="translate(376.728 -239.771)" fill="#0bfbff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
